@@ -1,2 +1,2 @@
 Летние школы Академии Яндекса 2022. 
-Занятие. Разбор случаев, линейный поиск https://contest.yandex.ru/contest/39359/enter/
+Занятие 1. Разбор случаев, линейный поиск https://contest.yandex.ru/contest/39359/enter/
