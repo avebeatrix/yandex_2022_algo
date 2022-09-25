@@ -1,3 +1,3 @@
 Летние школы Академии Яндекса 2022. 
 [Занятие. Разбор случаев, линейный поиск](https://contest.yandex.ru/contest/39359/enter/)
-  [пример](http://example.com/ "Необязательная подсказка")
+[Breakdance](https://breakdance.github.io/breakdance/)
